@@ -1,0 +1,11 @@
+{
+	"type": "record",
+	"namespace": "com.example",
+	"name": "Customer",
+	"doc": "AvroSchema for our customer",
+	"fields": [
+		{"name": "first_name", "type":"string", "doc": "First name of the customer"},
+		{"name": "last_name", "type": "string", "doc":"Last name of the customer"},
+		{"name": "automated_email", "type":"boolean", "default": true, "doc":"true if should send marketing emails"}
+	]
+}

@@ -1,0 +1,5 @@
+com\annakhuseinova\avro\generic\GenericRecordExamples.class
+com\example\Customer$1.class
+com\annakhuseinova\avro\generic\specific\SpecificRecordExample.class
+com\example\Customer.class
+com\example\Customer$Builder.class
